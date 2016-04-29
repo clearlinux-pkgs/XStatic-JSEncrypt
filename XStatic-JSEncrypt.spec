@@ -4,7 +4,7 @@
 #
 Name     : XStatic-JSEncrypt
 Version  : 2.0.0.2
-Release  : 10
+Release  : 11
 URL      : https://pypi.python.org/packages/source/X/XStatic-JSEncrypt/XStatic-JSEncrypt-2.0.0.2.tar.gz
 Source0  : https://pypi.python.org/packages/source/X/XStatic-JSEncrypt/XStatic-JSEncrypt-2.0.0.2.tar.gz
 Summary  : JSEncrypt 2.0.0 (XStatic packaging standard)
