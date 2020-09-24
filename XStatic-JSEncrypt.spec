@@ -4,7 +4,7 @@
 #
 Name     : XStatic-JSEncrypt
 Version  : 2.3.1.1
-Release  : 25
+Release  : 26
 URL      : http://pypi.debian.net/XStatic-JSEncrypt/XStatic-JSEncrypt-2.3.1.1.tar.gz
 Source0  : http://pypi.debian.net/XStatic-JSEncrypt/XStatic-JSEncrypt-2.3.1.1.tar.gz
 Summary  : JSEncrypt 2.3.1 (XStatic packaging standard)
